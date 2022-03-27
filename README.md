@@ -1,4 +1,8 @@
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ayush Paul</h1>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AyushPaul&show_icons=true&theme=radical"></p>
+<br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPaul&layout=compact"></p>
 
 <!--
 **AyushPaul/AyushPaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

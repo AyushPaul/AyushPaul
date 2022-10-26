@@ -3,7 +3,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AyushPaul&show_icons=true&theme=radical"></p>
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPaul&layout=compact"></p>
-
+[![@ayush_paul's Holopin board](https://holopin.me/ayush_paul)](https://holopin.io/@ayush_paul)
 <!--
 **AyushPaul/AyushPaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
